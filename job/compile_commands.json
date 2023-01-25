@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/main.cpp.o -c /home/just_c1won/job/main.cpp",
+  "file": "/home/just_c1won/job/main.cpp"
+},
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/Curve.cpp.o -c /home/just_c1won/job/Curve.cpp",
+  "file": "/home/just_c1won/job/Curve.cpp"
+},
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/Circle.cpp.o -c /home/just_c1won/job/Circle.cpp",
+  "file": "/home/just_c1won/job/Circle.cpp"
+},
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/Ellipse.cpp.o -c /home/just_c1won/job/Ellipse.cpp",
+  "file": "/home/just_c1won/job/Ellipse.cpp"
+},
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/Point.cpp.o -c /home/just_c1won/job/Point.cpp",
+  "file": "/home/just_c1won/job/Point.cpp"
+},
+{
+  "directory": "/home/just_c1won/job/job",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/PreWork.dir/Helix.cpp.o -c /home/just_c1won/job/Helix.cpp",
+  "file": "/home/just_c1won/job/Helix.cpp"
+}
+]

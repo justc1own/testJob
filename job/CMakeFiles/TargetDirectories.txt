@@ -1,0 +1,3 @@
+/home/just_c1won/job/job/CMakeFiles/PreWork.dir
+/home/just_c1won/job/job/CMakeFiles/edit_cache.dir
+/home/just_c1won/job/job/CMakeFiles/rebuild_cache.dir
